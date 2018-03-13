@@ -20,11 +20,6 @@ public class Problem03 {
 			c[9] = ',';
 			System.out.print(c[j]);
 		} 
-		
-
-
-	
-	}
-		
-	}
+	}		
+}
 
